@@ -1,0 +1,25 @@
+[{
+	"first" : "John",
+	"last" : "Smith",
+	"email" : "johnsmith@gmail.com",
+	"phone" : 9492039201, 
+	"address" : "12123 Stock Ave, Stockton, CA 92112",
+	"age" : 34
+},
+{
+	"first" : "Mike",
+	"last" : "Jordan",
+	"email" : "mekadn@gmail.com",
+	"phone" : 8321829301, 
+	"address" : "2121 Elk Tree, Victorville, CA 73821",
+	"age" : 21
+},
+{
+	"first" : "Alex",
+	"last" : "Bergues",
+	"email" : "abuesg@gmail.com",
+	"phone" : "9120219293", 
+	"address" : "81239 Oak Grove Ave, Folsom, CA 22012",
+	"age" : 50
+}
+]
